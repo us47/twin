@@ -1,6 +1,6 @@
 # twin
 
-## Create mysql databse: twindemo
+## Create mysql database: twindemo
 
 ## Run following commands:
 
